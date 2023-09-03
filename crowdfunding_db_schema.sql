@@ -46,7 +46,7 @@ CREATE TABLE campaign(
 	end_date date NOT NULL,
 	category_id varchar(5) NOT NULL,
 	subcategory_id varchar(10) NOT NULL,
-		PRIMARY KEY (cf_id),
+		PRIMARY KEY (contact_id),
 		FOREIGN KEY (contact_id) REFERENCES contacts(contact_id), 
 		FOREIGN KEY (category_id) REFERENCES category(category_id),
 		FOREIGN KEY (subcategory_id) REFERENCES subcategory(subcategory_id)
