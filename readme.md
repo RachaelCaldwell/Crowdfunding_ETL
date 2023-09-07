@@ -14,4 +14,13 @@
 * Create the Contacts DataFrame
 * Create the Crowdfunding Database
 
-**Category and Subcategory DataFrames**
+**Category and Subcategory DataFrames**<br>
+*The Category DataFrame has the following columns:*
+* A "category_id" column that is numbered sequential form 1 to the length of the number of unique categories.
+* A "category" column that has only the categories.
+* Export the DataFrame as a category.csv CSV file.
+
+*The SubCategory DataFrame has the following columns:*
+* A "subcategory_id" column that is numbered sequential form 1 to the length of the number of unique subcategories.
+* A "subcategory" column that has only the subcategories.
+* Export the DataFrame as a subcategory.csv CSV file.
