@@ -35,7 +35,7 @@
 ![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/subcategory_schema.png?raw=true)
 
 **Contacts Table Schema**<br>
-![image]
+![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/contacts_schema.png?raw=true)
 
 **Campaign Table Schema**<br>
 ![image]
