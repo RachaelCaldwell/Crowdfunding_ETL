@@ -15,13 +15,11 @@
 * Create the Crowdfunding Database
 
 **Category and Subcategory DataFrames**<br>
-*The Category DataFrame has the following columns and was exported as a [category.csv](Resources/category.csv) CSV file:*
-
+*The Category DataFrame has the following columns and was exported as a [category.csv](Resources/category.csv) CSV file:*<br>
 ![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/category_df.png?raw=true)
 
-*The SubCategory DataFrame has the following columns and was exported as a [subcategory.csv](Resources/subcategory.csv) CSV file:*
-![image]
-
+*The SubCategory DataFrame has the following columns and was exported as a [subcategory.csv](Resources/subcategory.csv) CSV file:*<br>
+![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/subcategory_df.png?raw=true)
 
 **Campaign DataFrame**<br>
 *The Campaign DataFrame has the following columns and was exported as a [campaign.csv](Resources/campaign.csv) CSV file:*
