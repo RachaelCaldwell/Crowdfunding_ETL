@@ -32,7 +32,7 @@
 ![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/category_schema.png?raw=true)
 
 **Subcategory Table Schema**<br>
-![image]
+![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/subcategory_schema.png?raw=true)
 
 **Contacts Table Schema**<br>
 ![image]
