@@ -16,11 +16,21 @@
 
 **Category and Subcategory DataFrames**<br>
 *The Category DataFrame has the following columns:*
-* A "category_id" column that is numbered sequential form 1 to the length of the number of unique categories.
-* A "category" column that has only the categories.
-* Export the DataFrame as a [category.csv](Resources/category.csv) CSV file.
+![image]
+* DataFrame exported as a [category.csv](Resources/category.csv) CSV file.
 
 *The SubCategory DataFrame has the following columns:*
-* A "subcategory_id" column that is numbered sequential form 1 to the length of the number of unique subcategories.
-* A "subcategory" column that has only the subcategories.
-* Export the DataFrame as a [subcategory.csv](Resources/subcategory.csv) CSV file.
+![image]
+* DataFrame exported as a [subcategory.csv](Resources/subcategory.csv) CSV file.
+
+**Campaign DataFrame**<br>
+*The Campaign DataFrame has the following columns:*
+![image]
+* DataFrame exported as a [campaign.csv](Resources/campaign.csv) CSV file.
+
+**Contacts DataFrame**<br>
+*The Contacts DataFrame has the following columns:*
+![image]
+* DataFrame exported as a [contacts.csv](Resources/contacts.csv) CSV file.
+
+**Crowdfunding Database**<br>
