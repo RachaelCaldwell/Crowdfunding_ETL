@@ -28,15 +28,15 @@
 **Crowdfunding Database**<br>
 *The four CSV files were used to sketch an [ERD crowdfunding diagram](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/Crowdfunding%20Diagram.png?raw=true) of the tables. Information from the ERD was then used to create a [crowdfunding table schema](crowdfunding_db_schema.sql) for each CSV file. Finally, each CSV file was imported into its corresponding SQL table.*
 
-**Category Table Schema**<br>
+* **Category Table Schema**<br>
 ![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/category_schema.png?raw=true)
 
-**Subcategory Table Schema**<br>
+* **Subcategory Table Schema**<br>
 ![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/subcategory_schema.png?raw=true)
 
-**Contacts Table Schema**<br>
+* **Contacts Table Schema**<br>
 ![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/contacts_schema.png?raw=true)
 
-**Campaign Table Schema**<br>
+* **Campaign Table Schema**<br>
 ![image](https://github.com/RachaelCaldwell/Crowdfunding_ETL/blob/main/Images/campaign_schema.png?raw=true)
 
