@@ -23,4 +23,4 @@
 *The SubCategory DataFrame has the following columns:*
 * A "subcategory_id" column that is numbered sequential form 1 to the length of the number of unique subcategories.
 * A "subcategory" column that has only the subcategories.
-* Export the DataFrame as a subcategory.csv CSV file.
+* Export the DataFrame as a [subcategory.csv](Resources/subcategory.csv) CSV file.
